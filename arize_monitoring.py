@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+ 
 # # Arize ML monitoring
 
 # Step 1 : Chargement des modules
