@@ -1,6 +1,13 @@
 # ML-Monitoring
 
-Machine Learning Monitoring With Arize
+---
+
+| Notes                                                        |
+| ------------------------------------------------------------ |
+| Les captures d'écranc sont contenues dans le dossier **img** |
+| Les tests sont dans le dossiers **tests**                    |
+
+---
 
 ## Avertissement
 
