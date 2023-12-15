@@ -1,0 +1,4 @@
+arize
+pandas
+nbconvert
+pytest
