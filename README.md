@@ -2,10 +2,12 @@
 
 ---
 
-| Notes                                                        |
-| ------------------------------------------------------------ |
-| Les captures d'écranc sont contenues dans le dossier **img** |
-| Les tests sont dans le dossiers **tests**                    |
+| Notes                                                       |
+| ----------------------------------------------------------- |
+| Les captures d'écran sont contenues dans le dossier **img** |
+
+|----------------------------------------------------------------
+| Les tests sont dans le dossiers **tests** |
 
 ---
 
