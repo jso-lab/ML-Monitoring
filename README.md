@@ -37,9 +37,9 @@ Le script qui s'exécute accomplit toutes les tâches. Dans le terminal devrait 
 
 ## Bonus
 
-Un dossier `assets` a été ajouté à la fin du projet. Il contient un notebook jupyter pour tester un modèle de régression. Vous pouvez le modifier à souhait. Vous également le supprimer.
+Un dossier `assets` a été ajouté à la fin du projet. Il contient un notebook jupyter pour tester un modèle de régression. Vous pouvez le modifier à souhait. Vous pouvez également le supprimer.
 
-Merci d'avoir tester ce code !
+Merci d'avoir testé ce code !
 
 ## Me contacter
 
